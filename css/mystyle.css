@@ -1,0 +1,25 @@
+.xyz
+{
+    background-color:white;
+    color:black;
+    font-size: 20px;
+    text-align: center;
+}
+.abc
+{
+    background-color:rgb(19, 193, 65);
+    color:black;
+    font-size:30px;
+    text-align:justify;
+}
+.pqr
+{
+    border:0px solid black;
+    border-collapse:collapse;
+    width:50%;
+    background-color:black;
+    text-align:center;
+    color:black;
+    font-size:40px;
+
+}
